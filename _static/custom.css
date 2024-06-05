@@ -1,7 +1,7 @@
 /* custom.css */
 
 /* Importar las fuentes Source Code Pro */
-@font-face {
+/* @font-face {
   font-family: 'Source Code Pro';
   src: url('fonts/SourceCodePro-Regular.otf') format('opentype');
   font-weight: normal;
@@ -15,7 +15,6 @@
   font-style: italic;
 }
 
-/* Variantes de peso (incluyendo negrita e itálica) */
 @font-face {
   font-family: 'Source Code Pro';
   src: url('fonts/SourceCodePro-Light.otf') format('opentype');
@@ -68,12 +67,89 @@
   font-style: italic;
 }
 
-/* Aplicar la fuente al cuerpo del texto */
+
 body {
   font-family: 'Source Code Pro', monospace;
   font-size: 16px;
+  line-height: 1.6; }*/
+
+/* Estilos base (normal y cursiva) */
+
+body {
+  font-family: 'Montserrat', sans-serif; /* Montserrat con fallback sans-serif */
+  font-size: 16px;
   line-height: 1.6;
 }
+
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat-Regular.ttf') format('truetype');
+  font-weight: 400; /* Normal (400 es el estándar para Montserrat) */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Variantes de grosor (incluyendo negrita e itálica) */
+@font-face {
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat-SemiBold.ttf') format('truetype');
+  font-weight: 600; 
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat-Bold.ttf') format('truetype');
+  font-weight: 700; /* Bold en Montserrat es 700 */
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+
 
 /* Estilos para títulos y subtítulos (incluyendo # Título) */
 h1, h2, h3, h4, h5, h6, .markdown-section h1 {
@@ -86,7 +162,7 @@ h1, h2, h3, h4, h5, h6, .markdown-section h1 {
 h1, .markdown-section h1 {
   font-size: 2.0em;
   font-weight: bold !important;
-  color: #663399 !important;
+
   margin-top: 16px !important;
 }
 
@@ -171,20 +247,10 @@ a.reference.internal.nav-link.active {
   display: none !important;
 }
 
-/* Ocultar elementos (si es necesario) */
-.caption,
-.bd-sidebar-primary.bd-sidebar.noprint,
-.sidebar-secondary-items.sidebar-secondary__inner {
-  display: none !important; 
+/* Hide Captions */
+.caption {
+  display: none !important;
 }
-
-.bd-main .bd-content .bd-article-container {
-  max-width: 100% !important;
-}
-
-
-
-
 
 /* Estilo para enlaces externos */
 .reference.external {

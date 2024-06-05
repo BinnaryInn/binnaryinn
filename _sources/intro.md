@@ -7,22 +7,35 @@
 # Binary Innovations
 {bdg-info}`Binary Inn`  
 
-Circle Up es una plataforma de aprendizaje comunitario que conecta a voluntarios apasionados por enseñar <span class="h-word">Nomads</span> con personas interesadas en aprender <span class="h-word">Crew</span>. Facilitamos el acceso a cursos y talleres gratuitos en diversas áreas, impartidos en espacios públicos de Tocancipá y municipios aledaños.
+¿Sabías que tus datos pueden ser la clave para impulsar el crecimiento de tu empresa? En Binary Inn, te ayudamos a descubrir información valiosa escondida en tus registros diarios, transformándola en decisiones estratégicas.
+
+### ¿Qué podemos hacer por ti?
+
+- **Simplificar lo complejo:** Hacemos que la tecnología sea fácil de entender y usar, para que puedas concentrarte en lo que realmente importa: tu negocio.
+- **Encontrar oportunidades ocultas:** Analizamos tus datos para identificar áreas de mejora y crecimiento que quizás no habías considerado.
+- **Tomar decisiones asistidas:** Te brindamos información clara y concisa para que puedas tomar decisiones informadas y estratégicas.
+- **Automatizar tareas:** Libera tiempo y recursos para que puedas enfocarte en lo que mejor sabes hacer.
 
 
-### ¿Qué es Circle Up?
-- <span class="h-word">Una plataforma:</span> Un espacio virtual y físico donde se encuentran voluntarios y participantes para compartir conocimientos y experiencias.
-- <span class="h-word">Un facilitador:</span> Nos encargamos de gestionar los espacios públicos, promocionar los cursos y conectar a los voluntarios con los participantes.
-- <span class="h-word">Un promotor del aprendizaje comunitario:</span> Creemos en el poder de la educación para transformar vidas y comunidades.
-- <span class="h-word">Un espacio de colaboración:</span> Fomentamos el trabajo en equipo y la cooperación entre voluntarios, participantes y la comunidad en general.
-- <span class="h-word">Un movimiento inclusivo:</span> Abrimos nuestras puertas a todas las personas, sin importar su edad, género, origen étnico, nivel socioeconómico o capacidad.
+## ¡Contáctanos!
 
-### ¿Qué no es Circle Up?
-- <span class="h-word">Una institución educativa formal:</span> No ofrecemos títulos ni certificaciones oficiales.
-- <span class="h-word">Un programa de voluntariado tradicional:</span> No requerimos un compromiso de tiempo específico ni tareas predefinidas para los voluntarios.
-- <span class="h-word">Una empresa con fines de lucro:</span> Somos una iniciativa sin ánimo de lucro que busca generar un impacto social positivo en la comunidad.
-- <span class="h-word">Un espacio para la promoción de intereses comerciales:</span> Los cursos y talleres deben ser gratuitos y no pueden utilizarse para promocionar productos o servicios.
-- <span class="h-word">Una organización jerárquica:</span> Promovemos un modelo de liderazgo compartido y horizontal, donde todos los participantes tienen voz y voto.
+Estamos aquí para ayudarte a impulsar tu negocio con el poder de los datos.  
+
+<br>
+
+<div style="position: relative; top: 50%; left: 50%; transform: translate(-50%, -50%); display: flex; justify-content: center; gap: 20px; width: 100%;">
+    <a href="mailto:binnary.innovations@gmail.com" target="_blank" style="text-decoration: none; width: 50%; display: flex; justify-content: center; align-items: center;">
+        <button style="background-color: #141414; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; width: 100%; display: flex; justify-content: center; align-items: center;">
+            <i class="fas fa-envelope" style="margin-right: 10px;"></i> Enviar correo
+        </button>
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=573194477860" target="_blank" style="text-decoration: none; width: 50%; display: flex; justify-content: center; align-items: center;">
+        <button style="background-color: #24bb7f; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; width: 100%; display: flex; justify-content: center; align-items: center;">
+            <i class="fab fa-whatsapp" style="margin-right: 10px;"></i> WhatsApp
+        </button>
+    </a>
+</div>
+
 
 
 <div style="position: relative; width: 100%; padding: 10px;">
