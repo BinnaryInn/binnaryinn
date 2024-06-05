@@ -21,6 +21,12 @@ Simplifica tus reportes y cumple con la normativa
 * **Confidencialidad garantizada:** Tus datos son tratados con absoluta confidencialidad y eliminados de nuestro sistema una vez finalizado el servicio.
 * **Tranquilidad y seguridad:** Te brindamos la tranquilidad de saber que tus RIPS están en manos de profesionales que conocen la normativa y se preocupan por tu cumplimiento.
 
+<div style="position: relative; width: 100%; padding: 10px;">
+    <div style="border-radius: 10px; overflow: hidden;">
+        <img src="https://i.ibb.co/N6MhC9N/Ads.png" alt="Imagen de fondo" style="width: 100%; height: auto;">
+    </div>
+</div>
+
 ## ¿Cómo funciona?
 
 1. **Agendamos una reunión virtual:** En 15 minutos, nos conoceremos, nos explicarás cómo manejas tus RIPS y evaluaremos si podemos ayudarte.

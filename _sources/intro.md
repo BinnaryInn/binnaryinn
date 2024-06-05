@@ -5,7 +5,7 @@
 </div>
 
 # Binary Innovations
-{bdg-info}`Binary Inn`  
+{bdg-success}`Binary Inn`  
 
 ¿Sabías que tus datos pueden ser la clave para impulsar el crecimiento de tu empresa? En Binary Inn, te ayudamos a descubrir información valiosa escondida en tus registros diarios, transformándola en decisiones estratégicas.
 

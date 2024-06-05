@@ -76,7 +76,7 @@ body {
 /* Estilos base (normal y cursiva) */
 
 body {
-  font-family: 'Montserrat', sans-serif; /* Montserrat con fallback sans-serif */
+  font-family: 'Montserrat', monospace; /* Montserrat con fallback sans-serif */
   font-size: 16px;
   line-height: 1.6;
 }
@@ -153,7 +153,7 @@ body {
 
 /* Estilos para títulos y subtítulos (incluyendo # Título) */
 h1, h2, h3, h4, h5, h6, .markdown-section h1 {
-  font-family: 'Source Code Pro', monospace; /* Usar la misma fuente que el cuerpo */
+  font-family: 'Montserrat', monospace; /* Usar la misma fuente que el cuerpo */
   font-weight: 600; 
   margin-top: 1.5em;
   margin-bottom: 0.5em;
@@ -187,7 +187,7 @@ p {
 
 
 a {
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Montserrat', monospace;
   font-size: 1.05em;
   font-weight: 400 !important;
 } 
@@ -199,7 +199,7 @@ ul, ol {
 
 /* Estilos para bloques de código */
 pre, code {
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Montserrat', monospace;
   background-color: #f5f5f5;
   padding: 0.5em;
 }
@@ -212,7 +212,7 @@ pre, code {
 }
 
 .h-word {
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Montserrat', monospace;
   font-weight: 500; /* Negrita */
   color: #25c19f; /* O el color que prefieras */
 }
