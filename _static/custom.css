@@ -171,30 +171,30 @@ a.reference.internal.nav-link.active {
   display: none !important;
 }
 
-/* Hide Captions */
-.caption {
-  display: none !important;
-}
-
-/* Hide Primary Sidebar */
-.bd-sidebar-primary.bd-sidebar.noprint {
-  display: none !important;
-}
-
-/* Hide Secondary Sidebar */
+/* Ocultar elementos (si es necesario) */
+.caption,
+.bd-sidebar-primary.bd-sidebar.noprint,
 .sidebar-secondary-items.sidebar-secondary__inner {
-  display: none !important;
+  display: none !important; 
 }
 
-/* Hide Secondary Sidebar */
-.bd-sidebar-secondary.bd-toc.noprint {
-  display: none !important;
+/* Aplicar ancho al 100% en pantallas grandes */
+div.bd-article {
+  width: 100% !important; 
+  box-sizing: border-box; /* Incluir padding y borde en el ancho */
 }
 
-/* Hide Secondary Sidebar */
-.bd-sidebar-secondary {
-  display: none !important;
+/* Aplicar ancho al 90% en pantallas pequeñas */
+@media (max-width: 768px) {
+  div.bd-article {
+    width: 90% !important;
+    margin: 0 auto; /* Centrar horizontalmente */
+  }
 }
+
+
+
+
 
 /* Estilo para enlaces externos */
 .reference.external {
