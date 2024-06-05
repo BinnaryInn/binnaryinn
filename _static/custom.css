@@ -178,18 +178,8 @@ a.reference.internal.nav-link.active {
   display: none !important; 
 }
 
-/* Aplicar ancho al 100% en pantallas grandes */
-div.bd-article {
-  width: 100% !important; 
-  box-sizing: border-box; /* Incluir padding y borde en el ancho */
-}
-
-/* Aplicar ancho al 90% en pantallas pequeñas */
-@media (max-width: 768px) {
-  div.bd-article {
-    width: 90% !important;
-    margin: 0 auto; /* Centrar horizontalmente */
-  }
+.bd-main .bd-content .bd-article-container {
+  max-width: 100% !important;
 }
 
 
